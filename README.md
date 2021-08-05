@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adian12
-- 👀 I’m interested in Front-End Web Development.
-- 🌱 I’m currently learning Java and some computer architecture.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning C++ and working on my personal website.
 - 📫 You can reach me @aalvaradomedia@gmail.com
 
 <!---
