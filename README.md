@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adian12
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning C++ and working on my personal website.
+- 🌱 I’m currently taking Discrete Math, Data Structures & Algorithms, and Calculus 2.
 - 📫 You can reach me @aalvaradomedia@gmail.com
 
 <!---
