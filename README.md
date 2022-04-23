@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adian12
+- 👋 Hi, I’m Adian, and I'm a college student studying Computer Science.
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently taking Discrete Math, Data Structures & Algorithms, and Calculus 2.
 - 📫 You can reach me @aalvaradomedia@gmail.com
